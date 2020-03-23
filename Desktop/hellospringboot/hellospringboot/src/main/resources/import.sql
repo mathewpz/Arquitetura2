@@ -1,0 +1,13 @@
+insert into clima (id, dia_semana, temp_minima, temp_maxima, umida_relativa, descricao) values (1, 'Segunda 23 Mar', 16.9, 26.2, 4.68, 'céu claro');
+insert into clima (id, dia_semana, temp_minima, temp_maxima, umida_relativa, descricao) values (2, 'Terça 24 Mar', 16.4, 24.6, 3.19, 'céu claro');
+insert into clima (id, dia_semana, temp_minima, temp_maxima, umida_relativa, descricao) values (3, 'Quarta 25 Mar', 15.2, 24.4, 1.65, 'céu claro');
+insert into clima (id, dia_semana, temp_minima, temp_maxima, umida_relativa, descricao) values (4, 'Quinta 26 Mar', 16.7, 26.9, 1.04, 'céu claro');
+insert into clima (id, dia_semana, temp_minima, temp_maxima, umida_relativa, descricao) values (5, 'Sexta 27 Mar', 17.7, 26.3, 1.99, 'nuvens dispersas');
+insert into clima (id, dia_semana, temp_minima, temp_maxima, umida_relativa, descricao) values (6, 'Sábado 28 Mar', 19.8, 26, 1.9, 'nublado');
+insert into clima (id, dia_semana, temp_minima, temp_maxima, umida_relativa, descricao) values (7, 'Domingo 29 Mar', 20.2, 17.4, 1.03, 'chuva leve');
+insert into clima (id, dia_semana, temp_minima, temp_maxima, umida_relativa, descricao) values (8, 'Segunda 30 Mar', 17.7, 23.9, 2.65, 'chuva moderada');
+insert into clima (id, dia_semana, temp_minima, temp_maxima, umida_relativa, descricao) values (9, 'Terça 31 Mar', 18.7, 26.5, 3.18, 'chuva moderada');
+insert into clima (id, dia_semana, temp_minima, temp_maxima, umida_relativa, descricao) values (10, 'Quarta 1 Abril', 19.3, 26.9, 2.67, 'chuva moderada');
+insert into clima (id, dia_semana, temp_minima, temp_maxima, umida_relativa, descricao) values (11, 'Quinta 2 Abril', 19.5, 24.4, 1.86, 'chuva intensa e pesada');
+insert into clima (id, dia_semana, temp_minima, temp_maxima, umida_relativa, descricao) values (12, 'Sexta 3 Abril', 16.4, 22.5, 4.66, 'chuva leve');
+insert into clima (id, dia_semana, temp_minima, temp_maxima, umida_relativa, descricao) values (13, 'Sábado 4 Abril', 18.4, 26.4, 2.18, 'chuva leve');
